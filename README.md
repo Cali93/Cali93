@@ -9,9 +9,11 @@
 📫 Reach me on [Twitter](https://twitter.com/huxwell_).
 
 
+<!--
 <p>
     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Cali93&show_icons=true&hide_border=true&theme=tokyonight"
     />
 </p>
+-->
