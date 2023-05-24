@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web3, cyber security and OSS.
 
-🌱 I’m currently learning Solidity and pentesting.
+🌱 I’m currently learning Solidity, Rust and pentesting.
 
 💞️ I’m looking to collaborate on open source Web3 projects.
 
